@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/top5-charkon/static/css/main.682e05e1.chunk.css",
+    "main.js": "/top5-charkon/static/js/main.5a20a01e.chunk.js",
+    "main.js.map": "/top5-charkon/static/js/main.5a20a01e.chunk.js.map",
+    "runtime~main.js": "/top5-charkon/static/js/runtime~main.647a20e3.js",
+    "runtime~main.js.map": "/top5-charkon/static/js/runtime~main.647a20e3.js.map",
+    "static/css/2.0624914a.chunk.css": "/top5-charkon/static/css/2.0624914a.chunk.css",
+    "static/js/2.0951ce2a.chunk.js": "/top5-charkon/static/js/2.0951ce2a.chunk.js",
+    "static/js/2.0951ce2a.chunk.js.map": "/top5-charkon/static/js/2.0951ce2a.chunk.js.map",
+    "index.html": "/top5-charkon/index.html",
+    "precache-manifest.90cfdb000e95f36ee1eb13ba382ff0d2.js": "/top5-charkon/precache-manifest.90cfdb000e95f36ee1eb13ba382ff0d2.js",
+    "service-worker.js": "/top5-charkon/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/top5-charkon/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.682e05e1.chunk.css.map": "/top5-charkon/static/css/main.682e05e1.chunk.css.map"
+  }
+}
